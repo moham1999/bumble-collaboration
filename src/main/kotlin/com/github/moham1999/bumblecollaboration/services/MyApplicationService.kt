@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.moham1999.bumblecollaboration.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.moham1999.bumblecollaboration.MyBundle
 
 class MyApplicationService {
 
